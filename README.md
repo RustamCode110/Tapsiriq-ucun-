@@ -1,4 +1,4 @@
-# This my first readme
+# This my first readme.
 ---
 ## Hello, my name is Rustam.
 ---
