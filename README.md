@@ -10,7 +10,7 @@
 - C++
 ### This is my first code line
 ```
->print('Hello everyone')
+print('Hello everyone')
 ```
 ### This is random picture
 ![background image](https://i0.wp.com/www.puresourcecode.com/wp-content/uploads/2022/11/github-wallpaper-scaled.jpeg?fit=2560%2C1440&ssl=1)
